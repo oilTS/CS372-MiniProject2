@@ -1,4 +1,3 @@
-#Market Basket Analysis
-Analyzing Consumer Behaviour Using MBA Association Rule Mining
+#Online Shopping
 
-Data from: https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis
+Data from: https://www.kaggle.com/datasets/tanyadayanand/online-shopping
