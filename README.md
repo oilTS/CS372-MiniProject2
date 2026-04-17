@@ -1,3 +1,4 @@
-#Online Shopping
+#Market Basket
+Sahil Murhekar 
 
-Data from: https://www.kaggle.com/datasets/tanyadayanand/online-shopping
+Data from: https://www.kaggle.com/datasets/sahilmurhekar/market-basket
